@@ -1,2 +1,2 @@
-# MainMenuUI
-Unity Main Menu UI Learning
+# UI Menu Project
+Unity v.2021.3.18
